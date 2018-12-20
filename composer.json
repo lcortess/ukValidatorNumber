@@ -1,0 +1,20 @@
+{
+    "name": "lcortes/validator-numbers",
+    "type": "project",
+    "authors": [{
+        "name": "Jose Luis",
+        "email": "jose@lcortes.net"
+    }],
+    "require": {
+        "symfony/console": "^4.2",
+        "symfony/filesystem": "^4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Console\\": "src"
+        },
+        "classmap": [
+            "src"
+        ]
+    }
+}
