@@ -16,7 +16,7 @@
 
 `./console.php validate ./files/numbers.txt ./files/validNumbers.csv`
 
-Where the first file is the list of numbers to validate and the second one is the file with the results of the validation
+Where the first file is the list of numbers to validate and the second one is the file with the results of the validation, the list of UK numbers is comming from this [page](https://fakenumber.org/generator/mobile)
 
 ### What about the carrier?
 
